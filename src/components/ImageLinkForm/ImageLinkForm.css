@@ -1,0 +1,11 @@
+.form {
+    width: 700px;
+    background: url(Im.png) no-repeat center center fixed;
+    -o-backgroud-size: cover;
+    background-size: cover;
+}
+
+.in {
+    background-color: black;
+    color: red;
+}
